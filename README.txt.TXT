@@ -13,7 +13,7 @@ Main features:
 - Cut and paste
 - Search  
 - Replace
-- Background Color Theam 
+- Background Color Themes  
 - Alignment
 - New Window 
 - Change font Color
