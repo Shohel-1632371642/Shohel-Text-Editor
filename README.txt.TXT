@@ -8,23 +8,23 @@ Type of app: Standalone Application
 
 Main features:
 
-- Different Fornt Style.
-- Fornt Size Change Option.
-- Color Theam Change.
-- Writing in Bold.
-- Writing in Italic.
-- Writing in underline
-- Fornt color chnage.
-- Foront Left Shit.
-- Fornt Right Shift
-- Fornt Middle Shift 
+- File operations
+- Cursor motion
+- Cut and paste
+- Search  
+- Replace
+- Background Color Theam 
+- Alignment
+- New Window 
+- Change font Color
+- Formatting Text
 
 
 Operating system: Any Operating System.
 
 
 
-Written in: Python
+Written in: Python programming language 
 
 
 
