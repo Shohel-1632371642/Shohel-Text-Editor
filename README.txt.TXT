@@ -12,12 +12,13 @@ Main features:
 - Cursor motion
 - Cut and paste
 - Search  
-- Replace
+- Find and Replace
 - Background Color Themes  
 - Alignment
 - New Window 
 - Change font Color
 - Formatting Text
+- Undo and redo 
 
 
 Operating system: Any Operating System.
