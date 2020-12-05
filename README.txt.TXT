@@ -8,18 +8,18 @@ Type of app: Standalone Application
 
 Main features:
 
-- File operations
-- Cursor motion
+- Creat text Files and save 
 - Cut and paste
 - Search  
 - Find and Replace
-- Background Color Themes  
-- Alignment
+- Choose Background Color   
+- Adjust Alignment
 - New Window 
-- Change font Color
-- Formatting Text
 - Undo and redo 
 - Print 
+- Choose font Color
+- Formatting Text
+
 
 
 Operating system: Any Operating System.
