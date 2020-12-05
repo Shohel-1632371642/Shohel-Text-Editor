@@ -11,7 +11,7 @@ Main features:
 - Creat text Files and save 
 - Cut and paste
 - Search  
-- Find and Replace
+- Find and Replace Text 
 - Choose Background Color   
 - Adjust Alignment
 - New Window 
