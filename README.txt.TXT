@@ -19,6 +19,7 @@ Main features:
 - Change font Color
 - Formatting Text
 - Undo and redo 
+- Print 
 
 
 Operating system: Any Operating System.
