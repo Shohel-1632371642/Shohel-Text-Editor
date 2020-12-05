@@ -8,7 +8,7 @@ Type of app: Standalone Application
 
 Main features:
 
-- Creat text Files and save 
+- Create text Files and save 
 - Cut and paste
 - Search  
 - Find and Replace Text 
